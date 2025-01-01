@@ -46,4 +46,6 @@ func año2025(conocimiento: Int, constancia: Int) {
 
 año2024() // Llamada a la función principal
 
-//KONTROL TE QUIERO *muak*
+
+
+A cazar grillo!!!
