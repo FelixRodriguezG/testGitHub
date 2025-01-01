@@ -45,3 +45,7 @@ func año2025(conocimiento: Int, constancia: Int) {
 }
 
 año2024() // Llamada a la función principal
+
+
+
+A cazar grillo!!!
